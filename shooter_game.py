@@ -70,7 +70,7 @@ monsters.add(monster5)
 win2 = font.render('YOU WIN!', True, (255, 255, 0))
 loss = font.render('YOU LOSE!', True, (255, 255, 0))
 reload_text = font.render('Wait, reload...', True, (255, 255, 0))
-question = font.render('Вы хотите возобновить игру?', True, (255, 255, 0))
+question = font.render('Вы хотите воз0бновить игру?', True, (255, 255, 0))
 answer = font.render('Да - E   Нет(выйти из игры) - Q', True, (255, 255, 0))
 game = True
 for i in range(3):
